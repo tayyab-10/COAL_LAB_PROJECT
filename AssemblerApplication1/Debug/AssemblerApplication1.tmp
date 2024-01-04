@@ -1,0 +1,73 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>D:\AssemblerApplication1\AssemblerApplication1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pdef.inc</FILE>
+  <FILE>D:\AssemblerApplication1\AssemblerApplication1\delayMacros.inc</FILE>
+  <FILE>D:\AssemblerApplication1\AssemblerApplication1\lcd_Macros.inc</FILE>
+  <FILE>D:\AssemblerApplication1\AssemblerApplication1\UART_Macros.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\AssemblerApplication1\AssemblerApplication1\Debug\AssemblerApplication1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication1.map</FILE>
+  <FILE>AssemblerApplication1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <reset><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>26</LINE></reset>
+  <InterpetOnReceiver><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>16</LINE></InterpetOnReceiver>
+  <L1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>21</LINE></L1>
+  <loop><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>42</LINE></loop>
+  <function1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>62</LINE></function1>
+  <function2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>66</LINE></function2>
+  <function3><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>70</LINE></function3>
+  <function4><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>74</LINE></function4>
+  <function5><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>78</LINE></function5>
+  <button1_functionality><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>111</LINE></button1_functionality>
+  <button2_functionality><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>191</LINE></button2_functionality>
+  <button3_functionality><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>196</LINE></button3_functionality>
+  <button4_functionality_off><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>220</LINE></button4_functionality_off>
+  <button5_functionality><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>225</LINE></button5_functionality>
+  <reset_r22><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>84</LINE></reset_r22>
+  <skip><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>86</LINE></skip>
+  <light_off><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>95</LINE></light_off>
+  <button1_message1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>252</LINE></button1_message1>
+  <button1_message1_2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>255</LINE></button1_message1_2>
+  <button1_message2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>258</LINE></button1_message2>
+  <button1_message2_2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>261</LINE></button1_message2_2>
+  <button1_message3><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>264</LINE></button1_message3>
+  <button1_message3_2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>267</LINE></button1_message3_2>
+  <button1_message4><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>270</LINE></button1_message4>
+  <button1_message4_2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>273</LINE></button1_message4_2>
+  <button3_message1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>276</LINE></button3_message1>
+  <button3_message2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>279</LINE></button3_message2>
+  <button4_functionality_on><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>215</LINE></button4_functionality_on>
+  <myloop><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>230</LINE></myloop>
+  <newmesg><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>234</LINE></newmesg>
+  <exit_loop><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>239</LINE></exit_loop>
+  <name><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>282</LINE></name>
+  <len1><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>253</LINE></len1>
+  <len7><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>256</LINE></len7>
+  <len2><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>259</LINE></len2>
+  <len8><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>262</LINE></len8>
+  <len3><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>265</LINE></len3>
+  <len9><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>268</LINE></len9>
+  <len4><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>271</LINE></len4>
+  <len10><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>274</LINE></len10>
+  <len5><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>277</LINE></len5>
+  <len6><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>280</LINE></len6>
+  <len11><FILE>D:\AssemblerApplication1\AssemblerApplication1\main.asm</FILE><LINE>283</LINE></len11>
+ </LABELS>
+</ASSEMBLER_INFO>
